@@ -1,0 +1,36 @@
+E:\WOPIClientServer\UnifyEditor Setup\bin\Debug\UnifyEditor Setup.exe.config
+E:\WOPIClientServer\UnifyEditor Setup\bin\Debug\UnifyEditor Setup.exe
+E:\WOPIClientServer\UnifyEditor Setup\bin\Debug\UnifyEditor Setup.pdb
+E:\WOPIClientServer\UnifyEditor Setup\bin\Debug\Newtonsoft.Json.dll
+E:\WOPIClientServer\UnifyEditor Setup\bin\Debug\System.Management.Automation.dll
+E:\WOPIClientServer\UnifyEditor Setup\obj\Debug\UnifyEditor Setup.csprojAssemblyReference.cache
+E:\WOPIClientServer\UnifyEditor Setup\obj\Debug\UnifyEditor_Setup.Form1.resources
+E:\WOPIClientServer\UnifyEditor Setup\obj\Debug\UnifyEditor_Setup.Properties.Resources.resources
+E:\WOPIClientServer\UnifyEditor Setup\obj\Debug\UnifyEditor Setup.csproj.GenerateResource.cache
+E:\WOPIClientServer\UnifyEditor Setup\obj\Debug\UnifyEditor Setup.csproj.CopyComplete
+E:\WOPIClientServer\UnifyEditor Setup\obj\Debug\UnifyEditor Setup.exe
+E:\WOPIClientServer\UnifyEditor Setup\obj\Debug\UnifyEditor Setup.pdb
+E:\WOPIClientServer\UnifyEditor Setup\bin\Debug\test.ps1
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\UnifyEditor Setup.exe.config
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\UnifyEditor Setup.exe
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\UnifyEditor Setup.pdb
+E:\WOPIClientServer\UnifyEditor_Setup\obj\Debug\UnifyEditor_Setup.Properties.Resources.resources
+E:\WOPIClientServer\UnifyEditor_Setup\obj\Debug\UnifyEditor Setup.csproj.GenerateResource.cache
+E:\WOPIClientServer\UnifyEditor_Setup\obj\Debug\UnifyEditor Setup.exe
+E:\WOPIClientServer\UnifyEditor_Setup\obj\Debug\UnifyEditor Setup.pdb
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\ps1\2012_R2_IIS_Setup.ps1
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\ps1\RestartPC.ps1
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\WaterMark\ExcelWaterMark.js
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\WaterMark\jquery.min.js
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\WaterMark\PPTWaterMark.js
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\WaterMark\WordEditWaterMark.js
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\WaterMark\WordWaterMark.js
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\WaterMark\powerpointframe.aspx
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\WaterMark\WordEditorFrame.aspx
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\WaterMark\wordviewerframe.aspx
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\WaterMark\xlviewerinternal.aspx
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\ps1\2016_IIS_Setup.ps1
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\ps1\CreateFarm.ps1
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\ps1\OOS_Setup.ps1
+E:\WOPIClientServer\UnifyEditor_Setup\bin\Debug\ps1\CreateIIS.ps1
+E:\WOPIClientServer\UnifyEditor_Setup\obj\Debug\UnifyEditor_Setup.Setup.resources

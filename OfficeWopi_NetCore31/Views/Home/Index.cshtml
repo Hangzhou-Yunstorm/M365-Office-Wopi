@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Interface";
+}
+
+<link href="~/css/Index.css" rel="stylesheet" />
+<div style="margin: 50px 0">
+    <p id="welcome_title">
+        欢迎使用 UnifyEditor Interface
+    </p>
+    <p id="tips_P">
+        <span class="color_red"> * </span> 如果使用负载均衡，请先配置其他NLB Interface网址（例如：http(s)://10.0.0.1:808 或 http(s)://wopi1.test.com:808），多个用逗号（“,”）分隔
+    </p>
+    <div class="nlb_note">
+        <span>NLB其他Interface网址: <span id="NLBMsg"><a id="msg_a" onclick="ShowSet()" title="点击修改">@ViewData["NLBMsg"]</a></span> </span>
+    </div>
+    <div class="nlb_set">
+        <span>NLB其他Interface网址: </span>
+        <input type="text" name="NLBUrls" id="NLBUrls" />
+    </div>
+    <div class="nlb_set" id="nlb_BtnG">
+        <input type="button" id="cancel_Btn" onclick="CancelSet()" value="取消" />
+        <input type="button" id="confirm_Btn" onclick="SetNLBUrls()" value="确 认" />
+    </div>
+</div>
+<script src="~/js/Index.js"></script>

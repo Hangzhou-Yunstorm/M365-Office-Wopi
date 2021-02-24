@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OfficeWopi_NetCore31", "OfficeWopi_NetCore31\OfficeWopi_NetCore31.csproj", "{03DC83B9-6EF4-45BF-91E6-F07C04D067DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OfficeWopi_YunstormLib", "OfficeWopi_YunstormLib\OfficeWopi_YunstormLib.csproj", "{4A39071B-F9C5-4557-86DF-6F1277C65077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnifyEditor_Setup", "UnifyEditor_Setup\UnifyEditor_Setup.csproj", "{5E592CF3-5561-409D-9D4B-F8DF2A5C03E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnifyEditor_NLB", "UnifyEditor_Loadbalance\UnifyEditor_NLB.csproj", "{EB55D811-D238-4566-99C8-FDDCE850C38C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnifyEditor_Interface", "UnifyEditor_Interface\UnifyEditor_Interface.csproj", "{70D6BA18-B375-4DAD-9FDC-0E98720D503E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CentOS", "CentOS", "{38DA6B39-EE00-42B7-ABCF-F437AA521FCE}"
+	ProjectSection(SolutionItems) = preProject
+		CentOS\Multiple_Cluster.sh = CentOS\Multiple_Cluster.sh
+		CentOS\Multiple_Cluster_Offline.sh = CentOS\Multiple_Cluster_Offline.sh
+		CentOS\Single_Point.sh = CentOS\Single_Point.sh
+		CentOS\Single_Point_Offline.sh = CentOS\Single_Point_Offline.sh
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03DC83B9-6EF4-45BF-91E6-F07C04D067DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DC83B9-6EF4-45BF-91E6-F07C04D067DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DC83B9-6EF4-45BF-91E6-F07C04D067DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DC83B9-6EF4-45BF-91E6-F07C04D067DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A39071B-F9C5-4557-86DF-6F1277C65077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A39071B-F9C5-4557-86DF-6F1277C65077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A39071B-F9C5-4557-86DF-6F1277C65077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A39071B-F9C5-4557-86DF-6F1277C65077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E592CF3-5561-409D-9D4B-F8DF2A5C03E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E592CF3-5561-409D-9D4B-F8DF2A5C03E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E592CF3-5561-409D-9D4B-F8DF2A5C03E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E592CF3-5561-409D-9D4B-F8DF2A5C03E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB55D811-D238-4566-99C8-FDDCE850C38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB55D811-D238-4566-99C8-FDDCE850C38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB55D811-D238-4566-99C8-FDDCE850C38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB55D811-D238-4566-99C8-FDDCE850C38C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D6BA18-B375-4DAD-9FDC-0E98720D503E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D6BA18-B375-4DAD-9FDC-0E98720D503E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D6BA18-B375-4DAD-9FDC-0E98720D503E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D6BA18-B375-4DAD-9FDC-0E98720D503E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE91CAB5-5C82-4306-88DD-5D2CB5885577}
+	EndGlobalSection
+EndGlobal
